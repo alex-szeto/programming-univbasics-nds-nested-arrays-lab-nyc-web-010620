@@ -36,7 +36,7 @@ def array_literal_matrix
   "Michael Pemulis"],[
   "Bruce Green",
   "Don Gately",
-  "Pat M.",
+  "Joelle van Dyne",
   "Kate Gompert",
   "Bruce Green"
     ]]
