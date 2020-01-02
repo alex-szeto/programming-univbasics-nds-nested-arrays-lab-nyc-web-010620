@@ -34,7 +34,7 @@ def array_literal_matrix
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"],[
-  "Don Gately",
+  "Bruce Green",
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
