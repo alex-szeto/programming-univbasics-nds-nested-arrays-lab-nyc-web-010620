@@ -38,7 +38,7 @@ def array_literal_matrix
   "Don Gately",
   "Joelle van Dyne",
   "Kate Gompert",
-  "Bruce Green"
+  "Pat M."
     ]]
   return nested_array
 end
