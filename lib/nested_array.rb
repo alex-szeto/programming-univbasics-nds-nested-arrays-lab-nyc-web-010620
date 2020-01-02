@@ -35,7 +35,7 @@ def array_literal_matrix
   "Mario Incandenza",
   "Michael Pemulis"],[
   "Bruce Green",
-  "Joelle van Dyne",
+  "Don Gately",
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"
