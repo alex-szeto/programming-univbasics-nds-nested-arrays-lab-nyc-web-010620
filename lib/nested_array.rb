@@ -36,7 +36,7 @@ def array_literal_matrix
     ["Joelle van Dyne"],
     ["Kate Gompert"],
     ["Lyle"],
-    ["Mario Incandenza"],["Michael Pemulis"],
+    ["Mario Incandenza","Michael Pemulis"],
     ["Don Gately"],
     ["Pat M."]]
   return nested_array
